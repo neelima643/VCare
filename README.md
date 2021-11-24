@@ -2,11 +2,17 @@
 Hospital Management System
 
 HOSPITAL-->Root folder
-CODE folder consist of JAVA code.
+
+CODE folder consist of JAVA code
+
 DATABASE folder consist of database table images and DB connectivity code
+
 IMAGES folder consist of all the icons and images used in project
+
 HMS.pdf -->Power Point Presentation of the project
+
 Hospital Management System.pdf --> Description, screenshot of the project
+
 Abstract.pdf --> Abstract
 
 Abstract :
