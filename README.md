@@ -1,6 +1,14 @@
 # VCare
 Hospital Management System
 
+HOSPITAL-->Root folder
+CODE folder consist of JAVA code.
+DATABASE folder consist of database table images and DB connectivity code
+IMAGES folder consist of all the icons and images used in project
+HMS.pdf -->Power Point Presentation of the project
+Hospital Management System.pdf --> Description, screenshot of the project
+Abstract.pdf --> Abstract
+
 Abstract :
 
 Hospitals or rather healthcare systems form a major part of human life. Hence the importance of an efficient system to manage all the processes in a hospital cannot be undermined. This motivated us, a student group aimed towards the betterment of society, to design a software system that would easily integrate the different departments in a hospital. 
