@@ -1,6 +1,8 @@
 # VCare
 Hospital Management System
 
+Demo videos of the working model - In Demo videos folder
+
 HOSPITAL-->Root folder
 
 CODE folder consist of JAVA code
